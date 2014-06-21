@@ -1,4 +1,10 @@
 {-
+Distributed under the MIT License.
+See accompanying file LICENSE or copy at http://opensource.org/licenses/MIT
+-}
+
+
+{-
 Tree datatype, a Tree is either a Node with data
 or empty (Nil)
 -}
